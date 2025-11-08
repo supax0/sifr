@@ -17,7 +17,7 @@
 #include <stdint.h>
 
 /* ───────────── Declaration ─────────────
-   Sifr (سِفْر) — Sovereign Interface for Arabic Representation.
+   Sifr (صفر) — Sovereign Interface for Arabic Representation.
    Each value is fixed, semantic, and independent of Unicode.
    Range: 0x00–0xFF
 */
