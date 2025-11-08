@@ -11,7 +11,7 @@
  */
 
 #define SIFR_BASE_ALIF           32  /* ا — isolated vertical base */
-#define SIFR_BASE_DOTLESS_BA     33  /* base for ب/ت/ث/ن/ي (dots applied via marks) */
+#define SIFR_BASE_DOTLESS_BA     33  /* base for ب/ت/ث/ن/ (dots applied via marks) */
 #define SIFR_BASE_DOTLESS_7AH    34  /* base for ح/ج/خ (dots applied via marks) */
 #define SIFR_BASE_DOTLESS_DAL    35  /* base for د/ذ (single dot above form) */
 #define SIFR_BASE_DOTLESS_RA     36  /* base for ر/ز (single dot above form) */
