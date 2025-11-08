@@ -9,6 +9,12 @@
     Sifr sits below ASCII and provides deterministic slots for Arabic
     letters, marks, ligatures, and control codes.
 ───────────────────────────────────────────────
+This document and its contents are provided
+**for review and proposal purposes only.**
+No reproduction, modification, or distribution
+is permitted without explicit written consent
+from the author.
+
 */
 
 #ifndef SIFR_TABLES_H
